@@ -1,0 +1,16 @@
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\bin\Debug\project network S-DES.exe.config
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\bin\Debug\project network S-DES.exe
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\bin\Debug\project network S-DES.pdb
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.csproj.AssemblyReference.cache
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.Form1.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.Properties.Resources.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.csproj.GenerateResource.cache
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.csproj.CoreCompileInputs.cache
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.exe
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project network S-DES.pdb
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.Form2.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.Form3.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.ceaser1.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.ceaser2.resources
+C:\Users\Basse\OneDrive\Desktop\visual studio\project network S-DES\project network S-DES\obj\Debug\project_network_S_DES.DiffieHelman.resources
